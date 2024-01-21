@@ -36,9 +36,9 @@ I can convert file to video or video to file with custom thumbnail support.
 
 **👨‍💻 Developer:** [Anonymous](@NITRO_LEECHERS)
 
-**📮 Channel:** [NS BOT UPDATES](@NITRO_LEECHERS)
+**📮 Channel:** [@NITRO_LEECHERS](@NITRO_LEECHERS)
 
-**👥 Group:** [NS BOT SUPPOTERS]@NITRO_LEECHERS)
+**👥 Group:** [@NITRO_LEECHERS]@NITRO_LEECHERS)
 
 **💻 Source Code:**[Press Me](@NITRO_LEECHERS)
 
